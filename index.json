@@ -1,0 +1,11 @@
+{
+  "org": "honojs",
+  "repo": "create-hono",
+  "versions": [
+    {
+      "commit": "ebc2b41876302b9a03e6a69383ceff1844824090",
+      "tag": "v0.20.0-rc.0",
+      "parsed_at": "2026-10-10T07:36:32.889551+00:00"
+    }
+  ]
+}
