@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/honojs/create-hono/commit/ebc2b41876302b9a03e6a69383ceff1844824090",
       "git:hexsha": "ebc2b41876302b9a03e6a69383ceff1844824090",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.20.0-rc.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.20.0-rc.0",
+      "repolex:parsedAt": "2026-10-10T07:36:32.888832+00:00"
     },
     {
       "@id": "https://repolex.ai/r/honojs/create-hono/commit/f5800e952e9963a7e5c2208ed9ecc298d2694750",
