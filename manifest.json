@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "honojs",
+  "repo": "create-hono",
+  "versions": [
+    {
+      "commit": "ebc2b41876302b9a03e6a69383ceff1844824090",
+      "parsed_at": "2026-10-10T07:33:42.687222+00:00",
+      "tag": "v0.20.0-rc.0",
+      "filetree": "filetree/ebc2b41876302b9a03e6a69383ceff1844824090.nq.gz",
+      "blobs": [
+        "blob/cffe8cdef132f31903a4971117f33f60cd9a56e6.nq.gz",
+        "blob/bf47309418a46ec66cfe7c453aedf16964f8d688.nq.gz",
+        "blob/493b2702ee700be0161cfb4593d52e2ca5607b0d.nq.gz",
+        "blob/f0e4d72f4325af227a5652379f4d18a407a9d533.nq.gz",
+        "blob/d8ef911f3b624a18cbae1faa5c054f9988e63f43.nq.gz",
+        "blob/166878b5efbe040aac7ef6d8ced0fe043a867e44.nq.gz",
+        "blob/ef5fe870097e67ac00b8b49334b3c1269592cce7.nq.gz",
+        "blob/6c458abaecb8f28aebb2830188d48d0c3939ace1.nq.gz",
+        "blob/96c650b46246c823b75ffe7fe4ec33b99136d6eb.nq.gz",
+        "blob/83cc223097c4455f77df96f5892c8725e299c3bb.nq.gz",
+        "blob/c3481a758517a7af9a3bb47336bb3c2258f01594.nq.gz",
+        "blob/3fd3f778e4d50ef87cb419b006c775c6d7159503.nq.gz",
+        "blob/0670e88bbac02e37a9f1372222fe7e3e4c11a4a7.nq.gz",
+        "blob/c3bc6affc3ddb55161aed51f19902fb1b610ecc2.nq.gz",
+        "blob/6904cfb4c03df9e335e89e68dbacbb2e3b47b6f6.nq.gz",
+        "blob/c0524dadaa091f6fc9fa41d2aac44dfc21e72d62.nq.gz",
+        "blob/cf63c6ab73f896645376f935d2e507c078ea7b59.nq.gz",
+        "blob/882f4528b33512d3a525309a718d0cf5ff9bdf03.nq.gz",
+        "blob/272b655f0f7ef414c03cee9ae41eb6bb83750917.nq.gz",
+        "blob/647e8daa1832693c0893ddeabc8008e8595db25b.nq.gz",
+        "blob/972d966a9a423d3edb4bc9cca92f9fdcc0410f43.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
